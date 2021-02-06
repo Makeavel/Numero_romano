@@ -19,3 +19,7 @@ pesquisar como funcionam as funções da linguagem que irá usar.
 - Pode usar qualquer linguagem para resolução, contudo recomendamos php ou javascript.
 
 - Tente resolver em no máximo 60 min, para dar realismo ao teste.
+
+Andamento do desafio:
+- Nível Fácil: Concluído
+- Nível Difícil:
