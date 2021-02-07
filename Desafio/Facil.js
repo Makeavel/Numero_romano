@@ -1,5 +1,5 @@
 
-    var palavra = "ix" ;
+    var palavra = "xxiv" ;
     console.log(`Entrada: ${palavra}`);
     var entrada = palavra.split("");
     
