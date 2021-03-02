@@ -1,7 +1,7 @@
 function entrada(palavra){
     var palavra ;
     console.log(`Entrada: ${palavra}`);
-    const entrada = palavra.split("");
+    const entrada = palavra.split(""); 
     return translate(entrada);
 } 
 
@@ -30,7 +30,7 @@ function translate(entrada){
     console.log(`Resultado: ${somaFinal}`);
 }
 
-entrada("xix") ;
+entrada("ix") ;
     
 
     
