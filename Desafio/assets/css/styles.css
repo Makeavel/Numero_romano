@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(170, 165, 165);
+}
+
+.Cabecalho{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.TituloPg{
+    font-size: 30px;
+}
+
+.LineMenu{
+    size: 4px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(48, 47, 47);
+}
+
+.ClasseProblema{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.problema{
+    cursor: pointer;
+}
+
+.desafio{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}

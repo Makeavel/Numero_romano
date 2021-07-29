@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(170, 165, 165);
+}
+
+.Cabecalho{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Title{
+    font-size: 30px;
+}
+
+.LineMenu{
+    size: 4px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(48, 47, 47);
+}
+
+.BoxEntrada{
+    border-radius: 3px;
+    padding: 5px;
+    margin: 30px 5px 30px 30px;
+}
+
+.Send{
+    padding: 5px;
+}
+
+.FlexEntrada{
+    margin-top: 50px;
+}
+
+.FlexEntrada{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.FlexSaida{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.TxtEntrada p {
+    font-size: 26px;
+}
+
+.TxtBox{
+    height: 20px;
+
+}
+
